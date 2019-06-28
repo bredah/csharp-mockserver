@@ -1,0 +1,10 @@
+{
+  "httpRequest": {
+    "method": "GET",
+    "path": "/api/product"
+  },
+  "httpResponse": {
+    "statusCode": 200,
+    "body": "[{\"id\": 1,\"description\": \"old product\",\"value\":12.35},{\"id\": 2, \"description\": \"new product\", \"value\": 18.85 }]"
+  }
+}

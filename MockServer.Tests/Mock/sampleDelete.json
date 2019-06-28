@@ -1,0 +1,10 @@
+{
+  "httpRequest": {
+    "method": "DELETE",
+    "path": "/api/product/3"
+  },
+  "httpResponse": {
+    "statusCode": 200,
+    "body": "Removed"
+  }
+}
