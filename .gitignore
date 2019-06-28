@@ -351,4 +351,9 @@ MigrationBackup/
 # End of https://www.gitignore.io/api/csharp
 
 # Sonarqube 
+.sonarqube
 sonar.txt
+
+# Coverage (Coverlet)
+lcov*
+coverage*.xml

@@ -1,5 +1,8 @@
 # .NET Core C# API for interacting with Mock-Server
 
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=bredah_csharp-mockserver&metric=alert_status)](https://sonarcloud.io/dashboard?id=bredah_csharp-mockserver)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=bredah_csharp-mockserver&metric=coverage)](https://sonarcloud.io/dashboard?id=bredah_csharp-mockserver)
+
 ## Setup
 
 Running the Mock-Server into local machine or server.
